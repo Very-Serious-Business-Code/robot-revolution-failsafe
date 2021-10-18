@@ -2,4 +2,4 @@
 
 set -e
 
-echo "shirt!?"
+echo "Shirtinator!?"
